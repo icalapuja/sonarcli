@@ -4,4 +4,4 @@ WORKDIR app
 
 COPY . .
 
-RUN sonar-scanner
+RUN sh sonar-scanner
