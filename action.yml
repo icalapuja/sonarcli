@@ -1,0 +1,8 @@
+name: 'sonnar-cli'
+description: 'Sonnar Cli GitHub Action'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'terminal'
+  color: 'blue'
